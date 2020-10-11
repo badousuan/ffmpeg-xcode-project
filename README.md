@@ -1,5 +1,5 @@
 # ffmpeg_xcode
-a xcode project for ffmpeg break point debug, based on ffmpeg 3.4.1 
+An Xcode project for ffmpeg break point debug, based on ffmpeg 3.4.1 
 this project is useful if you want to deep into ffmpeg source code.
 
 
